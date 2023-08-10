@@ -1,2 +1,7 @@
 # 42_get_next_line
-asd
+
+School 42's project aiming at learning to code more complexes functions.
+
+Get_next_line is a function which read a file and return the first line (which end by an EOF or a \n).
+
+You can read the subject in get_next_line.en.pdf
